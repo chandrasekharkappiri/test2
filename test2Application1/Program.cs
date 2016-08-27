@@ -10,6 +10,8 @@ namespace test2Application1
     {
         static void Main(string[] args)
         {
+
+            System.Console.WriteLine("hello world");
         }
     }
 }
